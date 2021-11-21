@@ -91,7 +91,7 @@ The available algorithms are the same that were mentioned in "Models".
 It also supports multiclass problems.
 
 
-### Live Link: https://data-modeller.herokuapp.com/###
+### Live Link: hhttps://data-modeller.herokuapp.com/ ###
 (Sample Data already enclosed in this github-repo)
 
 ### I/O Screenshot :<br/> ###
