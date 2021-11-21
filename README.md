@@ -100,14 +100,14 @@ Output-1
 <br>
 <br>
 Output-2
-![o2](https://user-images.githubusercontent.com/43958244/137478821-8d29517d-0a22-4af7-ae30-280026653c5b.png)
+![Imgur](https://i.imgur.com/0cRNBcr.png)
 </br>
 Output-3
-![o3](https://user-images.githubusercontent.com/43958244/137478884-1cacacdb-5145-4bc8-ab4f-e358bf6bc62f.png)
+![Imgur](https://i.imgur.com/0cRNBcr.png)
 <br>
 <br>
 Output-4
-![o4](https://user-images.githubusercontent.com/43958244/137478915-2f3fdbb8-6ecd-4d80-8623-71831394d2ba.png)
+![Imgur](https://i.imgur.com/zb2nAeg.png)
 </br>
 
 ### Novelty :<br/> ###
