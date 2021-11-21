@@ -91,12 +91,12 @@ The available algorithms are the same that were mentioned in "Models".
 It also supports multiclass problems.
 
 
-### Live Link: https://datamodelling.herokuapp.com/ ###
+### Live Link: https://data-modeller.herokuapp.com/###
 (Sample Data already enclosed in this github-repo)
 
 ### I/O Screenshot :<br/> ###
 Output-1
-![o1](https://user-images.githubusercontent.com/43958244/137478758-972be20e-e829-42fd-8a1e-76de3559c1f8.png)
+![Imgur](https://i.imgur.com/DEfuucA.png)
 <br>
 <br>
 Output-2
